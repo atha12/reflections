@@ -1,0 +1,51 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+	We get both the files' content in the terminal and we can differentiate between
+	them by looking at + and - sign. If it is a + sign then it is in the new file,
+	but if - it is in the old file.
+   
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    	Saves a lot of time and make work easy.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    	pro-We are in control of the commit.
+	    We can prevent the commit from being too small or too big.
+	    A just right commit can make the log code more readable.
+
+    	con-If we forget to save our work data can be lost.
+	    No worries of our code always safe and sound,
+	    Always need to remember to make a commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    	All these files are required together for a program to function smoothly.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    	diff -u oldFileName newFileName
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    	You can take more risks with version control that is because you always
+	have a previous version savesd as backup. Solve those unintended bugs.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+   	I just want to generally learn Git and benfit from it.
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+	An entire history access at your resource means that you need not 
+	worry about any of your mistakes in file, you can just check those
+	old versions. Git diff helps!!!! 
+
+	
