@@ -32,6 +32,11 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	By merging two braches together the master can now reach any of its
+	previous commits.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
+	pros: Very easy, no need to resolve the conflict.
+	cons: doesnt work in any cases of conflicts.
