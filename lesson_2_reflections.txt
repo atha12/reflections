@@ -16,11 +16,18 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	By adding only one file per change by add command we can ensure.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	
+	Branches are used like versions. While not necesserily updates they
+	allow you to manipulate your code and save them for later use.
 
 How do the diagrams help you visualize the branch structure?
+
+	A diagram helps you visualise all the commits that were in a specific
+	branch so that we can keep tracks of the commits
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
